@@ -9,6 +9,6 @@ Click "Use Template" in the top right of this page to create an own repository f
 ## Features
 It contains 
 * a minimal working example of a go package in [`foo`](/foo)
-* an example of a unittest written in gocrest
+* an example of an unittest written in gocrest
 * a valid go.mod and go.sum file
-* Github Actions to test code, measure the coverage, check formatting and prevent linting errors
+* GitHub Actions to test code, measure the coverage, check formatting and prevent linting errors
