@@ -3,7 +3,7 @@ module github.com/go-template-repository
 go 1.21
 
 require (
-	github.com/corbym/gocrest v1.0.7
+	github.com/corbym/gocrest v1.1.1
 	github.com/stretchr/testify v1.8.2
 )
 
