@@ -1,5 +1,5 @@
-github.com/corbym/gocrest v1.2.1 h1:rQ0lRgTpXD7zrCWDOlmhSH76SBGWLGErWlA4EAfzGhw=
-github.com/corbym/gocrest v1.2.1/go.mod h1:ee2ehptr3v4yPmxQzuPB0v5EMF9fUcgWfY4oDsBlAPI=
+github.com/corbym/gocrest v1.3.0 h1:tAVoXQFa2knr2AIzWDk72DthKlQxMCD9hCjutC40V9k=
+github.com/corbym/gocrest v1.3.0/go.mod h1:ee2ehptr3v4yPmxQzuPB0v5EMF9fUcgWfY4oDsBlAPI=
 github.com/stretchr/testify v1.12.1 h1:EuwCh5fleGS7H32xRwO3wRGT7DxrDhLAT6FF8MpWDWE=
 github.com/stretchr/testify v1.12.1/go.mod h1:MDEgiDPPsNp5cuIrHPPCyornHKgEVbtFUmoNlxoYthg=
 go.yaml.in/yaml/v3 v3.0.5 h1:N6y/pJk8buWs9NY5ERU2HSMfm+IuD/OtfdAnq6kESPw=
